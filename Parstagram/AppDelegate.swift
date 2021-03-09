@@ -11,6 +11,7 @@ import Parse
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
+    var window: UIWindow?
 
 
 
@@ -23,7 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
             Parse.initialize(with: parseConfig)
         
-        
+       
         // Override point for customization after application launch.
         return true
     }
