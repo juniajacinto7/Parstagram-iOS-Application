@@ -1,12 +1,14 @@
 # Parstagram-iOS Application
 
-# Parstagram - Part II
+Parstagram is an imitation Instagram application complete with profile accessibility and global feed to which the user could post and comment. 
+
+## Parstagram - Part II
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
 Time spent: **7** hours spent in total
 
-## User Stories
+### User Stories
 
 The following **required** functionality is completed:
 
@@ -15,15 +17,13 @@ The following **required** functionality is completed:
 - [x] User can view comments on a post. (3pts)
 - [x] User can add a new comment. (5pts)
 
-## Video Walkthrough
+### Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/7j5FT9sJaq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-# Parstagram - Part I
-
-This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
+## Parstagram - Part I
 
 Time spent: **X** hours spent in total
 
